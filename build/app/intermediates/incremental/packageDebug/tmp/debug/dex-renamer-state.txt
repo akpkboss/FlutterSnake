@@ -1,0 +1,4 @@
+#Tue Nov 27 18:34:47 CST 2018
+base.0=/Users/aisanaka/dev/cs125/FlutterSnake/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
